@@ -25,6 +25,9 @@ TreeNode* search(TreeNode* root, int key){
     }
     
 }
+
+
+//test
  
  
 TreeNode* insert(TreeNode* root, int key){
