@@ -19,6 +19,4 @@ int main(void){
 
     free(name1);
     free(name2);
-
-    printf("test");
 }
