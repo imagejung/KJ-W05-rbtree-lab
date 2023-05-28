@@ -1,4 +1,21 @@
-# Red-Black Tree 구현
+# KJ-W05-rbtree-lab
+
+##1./practice
+- c언어 연습폴더
+- stack, queue, linkedlist, bst c언어로 구현
+
+##2./src
+- rbtree.c 파일만 수정.
+- rbtree 구현. (자체 구현x, 오픈소스 활용)
+
+##3./test
+- test 폴더에서 make test 실행시 Passed All tests! 메시지 출력 
+  -> test 통과 의미
+
+
+------
+원본 
+#Red-Black Tree 구현
 
 Balanced search tree로 많이 쓰이는 Red-black tree (이하 RB tree)를 C 언어로 구현하는 과제입니다.
 구현하는 추상 자료형 (ADT: abstract data type)은 ordered set, multiset 입니다.
